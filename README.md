@@ -135,7 +135,27 @@ Applications:
 
 ### 9. Analysis of Variance (ANOVA)
 
-Used to compare the means of three or more groups simultaneously.
+ANOVA (Analysis of Variance) is a statistical technique used to determine whether there are significant differences between the means of two or more groups. Instead of performing multiple t-tests, ANOVA compares the variation **between groups** with the variation **within groups** to assess whether observed differences are likely due to chance.
+
+### Types of ANOVA
+
+- **One-Way ANOVA**  
+  Compares the means of three or more groups based on a single independent variable (factor).
+
+- **Two-Way ANOVA**  
+  Examines the effect of two independent variables on a dependent variable and can also test for interaction effects between the factors.
+
+- **Repeated Measures ANOVA**  
+  Used when the same subjects are measured multiple times under different conditions or time points.
+
+### Key Concepts
+
+- **Null Hypothesis ($H_0$):** All group means are equal.
+- **Alternative Hypothesis ($H_a$):** At least one group mean differs.
+- **F-Statistic:** Ratio of between-group variance to within-group variance.
+- **P-Value:** Determines whether the observed differences are statistically significant.
+
+ANOVA is widely used in data science, machine learning, healthcare, business analytics, and experimental research to compare multiple groups efficiently.
 
 Applications:
 
@@ -189,6 +209,26 @@ The number of values that are free to vary in a statistical calculation.
 
 ---
 
+### Statistical Distribution Tables
+
+Statistical tables are commonly used in hypothesis testing, confidence interval estimation, and inferential statistics.
+
+### Useful Reference Tables
+
+* **Z-Table (Standard Normal Distribution)**
+  https://www.ztable.net/
+
+* **t-Table (Student's t-Distribution)**
+  https://www.tdistributiontable.com/
+
+* **Chi-Square Table ($chi-square$ Distribution)**
+  https://www.medcalc.org/en/manual/chi-square-table.php
+
+* **F-Table (F Distribution)**
+  https://www.medcalc.org/en/manual/f-table.php
+
+  ---
+
 ## 🛠 Technologies Used
 
 * Python
@@ -208,18 +248,8 @@ The number of values that are free to vary in a statistical calculation.
 inferential-statistics-python/
 │
 ├── notebooks/
-│   ├── 01_sampling.ipynb
-│   ├── 02_central_limit_theorem.ipynb
-│   ├── 03_confidence_intervals.ipynb
-│   ├── 04_hypothesis_testing.ipynb
-│   ├── 05_t_test.ipynb
-│   ├── 06_chi_square_test.ipynb
-│   └── 07_anova.ipynb
-│
-├── datasets/
-│
-├── images/
-│
+│   ├── inferential_stat.ipynb
+│  
 ├── requirements.txt
 │
 └── README.md
