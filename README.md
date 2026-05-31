@@ -249,6 +249,8 @@ inferential-statistics-python/
 │
 ├── notebooks/
 │   ├── inferential_stat.ipynb
+│
+├──image/
 │  
 ├── requirements.txt
 │
