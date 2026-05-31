@@ -1,3 +1,5 @@
+##[open in collab](https://colab.research.google.com/github/officialTechie2007/Inferential-statistics/blob/main/inferential_stat.ipynb)
+
 # 📊 Inferential Statistics with Python
 
 A comprehensive Python-based project that explores the fundamental concepts of **Inferential Statistics** through theory, practical implementations, statistical tests, and data visualizations.
