@@ -1,4 +1,4 @@
-##[open in collab](https://colab.research.google.com/github/officialTechie2007/Inferential-statistics/blob/main/inferential_stat.ipynb)
+##[open in collab](https://colab.research.google.com/github/officialTechie2007/Inferential-statistics/blob/main/inferential_stat.ipynb?authuser=2)
 
 # 📊 Inferential Statistics with Python
 
