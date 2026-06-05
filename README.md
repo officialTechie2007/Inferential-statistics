@@ -368,16 +368,42 @@ By completing this project, you will be able to:
 
 ---
 
-## 🤝 Contributions
+# Acknowledgment
 
-Contributions, suggestions, and improvements are welcome.
+Some inferential statistics concepts, examples, and implementation ideas were inspired by publicly available educational resources, textbooks, research-oriented tutorials, and learning materials. The explanations, derivations, code implementations, experiment design, analysis workflow, visualizations, interpretations, and learning notes presented in this repository were independently developed and organized for educational purposes as part of my learning journey in Statistics, Data Science, and Machine Learning.
 
-Feel free to fork this repository, submit pull requests, or open issues for discussion.
+## Recommended Learning Resources
+
+For readers interested in exploring Inferential Statistics in greater depth, the following resources are highly recommended:
+
+### Inferential Statistics & Statistical Inference
+
+* *OpenIntro Statistics* — David Diez, Christopher Barr, and Mine Çetinkaya-Rundel
+* *Introduction to the Practice of Statistics* — David S. Moore, George P. McCabe, and Bruce Craig
+* *All of Statistics: A Concise Course in Statistical Inference* — Larry Wasserman
+* *Statistical Inference* — George Casella and Roger L. Berger
+
+### Probability & Mathematical Foundations
+
+* *Introduction to Probability* — Joseph K. Blitzstein and Jessica Hwang
+* *A First Course in Probability* — Sheldon Ross
+
+### Data Analysis & Applied Statistics
+
+* *Practical Statistics for Data Scientists* — Peter Bruce, Andrew Bruce, and Peter Gedeck
+* *Python for Data Analysis* — Wes McKinney
+
+### Machine Learning Perspective
+
+* *An Introduction to Statistical Learning (ISLR)* — Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, and Jonathan Taylor
+* *The Elements of Statistical Learning* — Trevor Hastie, Robert Tibshirani, and Jerome Friedman
 
 ---
 
-## ⭐ Support
+This repository was created as part of my ongoing effort to understand the principles of statistical inference, including sampling distributions, estimation, confidence intervals, hypothesis testing, and statistical decision-making through practical implementation, experimentation, and data-driven analysis.
 
-If you found this project helpful, consider giving it a star ⭐ to support the repository and help others discover it.
+# Author
 
-Happy Learning! 🚀
+Akinchan Nayek
+
+Exploring the foundations of Data Science, Machine Learning, and Statistical Analysis through practical Python implementations.
